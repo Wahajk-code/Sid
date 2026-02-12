@@ -1,0 +1,81 @@
+{
+  "PadForm": {
+    "heading": "Accord de débit préautorisé",
+    "section1": {
+      "title": "Informations personnelles",
+      "name": "Nom complet",
+      "namePH": "Jean Dupont",
+      "phone": "Téléphone",
+      "phonePH": "+1 (555) 555-5555",
+      "email": "Courriel",
+      "emailPH": "jeandupont@gmail.com",
+      "address": "Adresse",
+      "addressPH": "Rue, Ville, Province, Code postal"
+    },
+    "section2": {
+      "title": "Méthode de paiement",
+      "bankAccount": "Compte bancaire",
+      "creditCard": "Carte de crédit",
+      "holder": "Nom du titulaire de la carte",
+      "holderPH": "Jean Dupont",
+      "cardNumber": "Numéro de carte",
+      "cardNumberPH": "1234 5678 9012 3456",
+      "cardExpiry": "Date d'expiration",
+      "cardExpiryPH": "MM/AA",
+      "cardCvc": "CVC",
+      "cardCvcPH": "123",
+      "void": "Détails du chèque annulé",
+      "institution": "Numéro d'institution",
+      "institutionPH": "123",
+      "transit": "Numéro de transit",
+      "transitPH": "12345",
+      "number": "Numéro de compte",
+      "numberPH": "123456789"
+    },
+    "section3": {
+      "title": "Bénéficiaire et objectif",
+      "title1": "Bénéficiaire",
+      "sub1": "ClicRecrute, 6300 Av. Auteuil Suite 505, Brossard, QC J4Z 3P2 — 819-818-3953 — info@clicrecrute.com",
+      "title2": "Objectif",
+      "sub2": "Autorisation pour les paiements récurrents pour les services.",
+      "title3": "Frais récurrents :",
+      "sub3": "10% du brut, frais d'ouverture de dossier de 350$.",
+      "title4": "Frais de subvention salariale optionnel",
+      "sub4": "350$",
+      "title5": "Catégorie de DAP",
+      "sub5": "DAP commercial"
+    },
+    "section4": {
+      "title": "Reconnaissances",
+      "sub1": "Je renonce à toute exigence de notification pour les modifications.",
+      "sub2": "Je peux annuler cet accord avec préavis.",
+      "sub3": "Je déclare que les informations sont exactes."
+    },
+    "section5": {
+      "title": "Signature",
+      "clear": "Effacer",
+      "date": "Date"
+    },
+    "message": "Vos informations sont sécurisées et seront utilisées uniquement pour cet accord.",
+    "submit": "Soumettre",
+    "submitting": "Soumission en cours..."
+  },
+  "VideoUpload": {
+    "heading": "Vous pouvez télécharger votre vidéo de candidature en suivant ce lien, merci !",
+    "uploadLabel": "Sélectionner le fichier vidéo",
+    "fileSizeLimit": "Taille maximale du fichier : 100 Mo. Seuls les fichiers vidéo sont acceptés.",
+    "fileTooLarge": "Le fichier est trop volumineux. La taille maximale est de 100 Mo.",
+    "invalidFileType": "Type de fichier invalide. Veuillez télécharger un fichier vidéo.",
+    "noFileSelected": "Aucun fichier sélectionné. Veuillez choisir une vidéo à télécharger.",
+    "uploadSuccess": "Vidéo téléchargée avec succès !",
+    "uploadFailed": "Échec du téléchargement de la vidéo. Veuillez réessayer.",
+    "uploadProgress": "Progression du téléchargement :",
+    "uploading": "Téléchargement en cours...",
+    "uploadButton": "Télécharger",
+    "loadingApi": "Chargement de l'API Google...",
+    "signInButton": "Se connecter avec Google",
+    "signInFailed": "Échec de la connexion. Veuillez réessayer.",
+    "notSignedIn": "Veuillez vous connecter pour télécharger une vidéo.",
+    "initFailed": "Échec de l'initialisation de l'API Google. Veuillez réessayer."
+  }
+}

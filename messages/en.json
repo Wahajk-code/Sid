@@ -1,0 +1,81 @@
+{
+  "PadForm": {
+    "heading": "Pre-Authorized Debit Agreement",
+    "section1": {
+      "title": "Personal Information",
+      "name": "Full Name",
+      "namePH": "John Doe",
+      "phone": "Phone",
+      "phonePH": "+1 (555) 555-5555",
+      "email": "E-mail",
+      "emailPH": "johndoe@gmail.com",
+      "address": "Address",
+      "addressPH": "Street, City, Province, Postal Code"
+    },
+    "section2": {
+      "title": "Payment Method",
+      "bankAccount": "Bank Account",
+      "creditCard": "Credit Card",
+      "holder": "Cardholder Name",
+      "holderPH": "John Doe",
+      "cardNumber": "Card Number",
+      "cardNumberPH": "1234 5678 9012 3456",
+      "cardExpiry": "Expiry Date",
+      "cardExpiryPH": "MM/YY",
+      "cardCvc": "CVC",
+      "cardCvcPH": "123",
+      "void": "Void Cheque Details",
+      "institution": "Institution Number",
+      "institutionPH": "123",
+      "transit": "Transit Number",
+      "transitPH": "12345",
+      "number": "Account Number",
+      "numberPH": "123456789"
+    },
+    "section3": {
+      "title": "Payee and Purpose",
+      "title1": "Payee",
+      "sub1": "ClicRecrute, 6300 Av. Auteuil Suite 505, Brossard, QC J4Z 3P2 — 819-818-3953 — info@clicrecrute.com",
+      "title2": "Purpose",
+      "sub2": "Authorization for recurring payments for services.",
+      "title3": "Recurring Fee:",
+      "sub3": "10% of gross, $350 file opening fee.",
+      "title4": "Optional Wage Subsidy Fee",
+      "sub4": "$350",
+      "title5": "PAD Category",
+      "sub5": "Business PAD"
+    },
+    "section4": {
+      "title": "Acknowledgements",
+      "sub1": "I waive any notice requirements for changes.",
+      "sub2": "I may cancel this agreement with notice.",
+      "sub3": "I declare the information is accurate."
+    },
+    "section5": {
+      "title": "Signature",
+      "clear": "Clear",
+      "date": "Date"
+    },
+    "message": "Your information is secure and will be used only for this agreement.",
+    "submit": "Submit",
+    "submitting": "Submitting..."
+  },
+  "VideoUpload": {
+    "heading": "You can upload your application video by following this link, thank you!",
+    "uploadLabel": "Select Video File",
+    "fileSizeLimit": "Maximum file size: 100MB. Only video files are accepted.",
+    "fileTooLarge": "File is too large. Maximum size is 100MB.",
+    "invalidFileType": "Invalid file type. Please upload a video file.",
+    "noFileSelected": "No file selected. Please choose a video to upload.",
+    "uploadSuccess": "Video uploaded successfully!",
+    "uploadFailed": "Failed to upload video. Please try again.",
+    "uploadProgress": "Upload Progress:",
+    "uploading": "Uploading...",
+    "uploadButton": "Upload",
+    "loadingApi": "Loading Google API...",
+    "signInButton": "Sign in with Google",
+    "signInFailed": "Failed to sign in. Please try again.",
+    "notSignedIn": "Please sign in to upload a video.",
+    "initFailed": "Failed to initialize Google API. Please try again."
+  }
+}
