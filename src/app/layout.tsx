@@ -3,23 +3,23 @@ import { Playfair_Display, Nunito } from "next/font/google";
 import "./globals.css";
 import HeartCursor from "@/components/HeartCursor";
 
-const playfair = Playfair_Display({ 
+const playfair = Playfair_Display({
   subsets: ["latin"],
   variable: "--font-playfair",
   display: "swap",
 });
 
-const nunito = Nunito({ 
+const nunito = Nunito({
   subsets: ["latin"],
   variable: "--font-nunito",
   display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "Will You Be My Valentine? 💖",
-  description: "A special question for a special person.",
+  title: "daily flowa",
+  description: "a flowa a day keeps the begum happy",
   icons: {
-    icon: "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💖</text></svg>",
+    icon: "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌸</text></svg>",
   },
 };
 
